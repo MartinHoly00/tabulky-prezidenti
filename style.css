@@ -1,0 +1,44 @@
+.datum{
+    background-color: beige;
+}
+.czech{
+    background-color: blue
+}
+.slovak{
+    background-color: violet
+}
+.note{
+    background-color: white;
+
+}
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+tbody:after{
+    border: 2px solid black;
+}
+caption {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.first-two-row{
+    color: Yellow;
+    background-color: red;
+}
+
+.second-two-row{
+    color: Yellow;
+    background-color: blue;
+}
+
+.without-president{
+    color: gray;
+}
